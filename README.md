@@ -8,5 +8,5 @@ A regression analysis on a stocks daily returns was completed for a 19 year peri
 
 # Files
 Q4.ipynb is a Jupter Notebook file with code along with a brief explanation of it <br>
-Q_4Data is used while running Q4.ipynb; it contains a set of stock returns over a period of time <br>
+Q_4Data is used while running Q4.ipynb, it contains a set of stock returns over a period of time <br>
 Summary.word describes my findings and insights of the analysis <br>
