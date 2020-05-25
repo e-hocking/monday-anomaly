@@ -1,4 +1,4 @@
-# monday-anomaly-
+# monday-anomaly
 Do stocks tend to have negative returns on a Monday?
 
 An analysis was completed for a set of stocks over the past two decades to determine if a specific day of the week would impact your returns. What if returns for a stock tend to be negative on a Monday, would you wait until Tuesday to sell?
